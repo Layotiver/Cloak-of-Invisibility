@@ -10,8 +10,8 @@
 ## 2.3 Solving Systems of Linear Equations
 ### 2.3.1 Particular and General Solution
 - The approach to get general solution:
-1. Find a particular solution to Ax = b. 
-2. Find all solutions to Ax = 0. 
+1. Find a particular solution to Ax = b.
+2. Find all solutions to Ax = 0.
 3. Combine the solutions from steps 1. and 2. to the general solution.
 
 ### 2.3.2 Elementary Transformations
