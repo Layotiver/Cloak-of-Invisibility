@@ -1,0 +1,133 @@
+{
+  "main": {
+    "id": "3a59d88a44f2000d",
+    "type": "split",
+    "children": [
+      {
+        "id": "c6105f0c960b6f2a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "DeepLearning.ai.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5878f8e377d842a3",
+    "type": "split",
+    "children": [
+      {
+        "id": "8a6b1192c0d09309",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3336e902f0fbd812",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "2e1edad8b08ea268",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "dbecd8e83808c8d0",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 189.5
+  },
+  "right": {
+    "id": "bb189f5e3085f7fb",
+    "type": "split",
+    "children": [
+      {
+        "id": "1d76cf7f7a13010c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "34ab956faf7da0ad",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "DeepLearning.ai.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "536087691d573861",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "DeepLearning.ai.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d30e103e6118bcb6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "73bbce44b674c863",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "DeepLearning.ai.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "c6105f0c960b6f2a",
+  "lastOpenFiles": []
+}
